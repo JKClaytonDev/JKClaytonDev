@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JKClaytonDev
 - 👀 I’m interested in video game development
-- 🌱 I use Unity but am currently learning UE5 blueprints
-- 💞️ I’m looking to collaborate on game projects (unity/unreal)
 - 📫 Email me at claytoj4@miamioh.edu
 
 <!---
